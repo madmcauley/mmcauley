@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>My First Page</title>
+My First Page
 </head>
 <body>
     <h1>Hello World</h1>
